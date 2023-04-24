@@ -2,14 +2,98 @@
 <project version="4">
   <component name="PublishConfigData" autoUpload="Always" serverName="student@dpa2022s-0018.eastus.cloudapp.azure.com:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="student@dpa2022s-0018.eastus.cloudapp.azure.com:22">
+      <paths name="student@20.253.236.187:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="student@20.253.236.187:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="student@dpa2022s-0018.eastus.cloudapp.azure.com:22 password">
         <serverdata>
           <mappings>
             <mapping deploy="/home/student/094295_hw1" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="student@dpa2022s-0018.eastus.cloudapp.azure.com:22 password">
+      <paths name="student@nlp2022w-0005.westus.cloudapp.azure.com:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="student@nlp2022w-0005.westus.cloudapp.azure.com:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="student@nlp2022w-0005.westus.cloudapp.azure.com:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="student@nlp2022w-0005.westus.cloudapp.azure.com:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="student@nlp2022w-0005.westus.cloudapp.azure.com:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="uriel@3.213.153.88:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="uriel@3.213.153.88:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="uriel@3.213.153.88:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="uriel@3.213.153.88:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="uriel@3.213.153.88:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="uriel_first">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
