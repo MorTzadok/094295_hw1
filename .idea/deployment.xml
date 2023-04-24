@@ -12,7 +12,7 @@
       <paths name="student@20.253.236.187:22 password (1)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/student/094295_hw1/094295_hw1" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
