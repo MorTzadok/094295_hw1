@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="student@dpa2022s-0018.eastus.cloudapp.azure.com:22">
+  <component name="PublishConfigData" autoUpload="Always" serverName="student@dpa2022s-0018.eastus.cloudapp.azure.com:22 password">
     <serverData>
       <paths name="student@dpa2022s-0018.eastus.cloudapp.azure.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/student/094295_hw1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="student@dpa2022s-0018.eastus.cloudapp.azure.com:22 password">
         <serverdata>
           <mappings>
             <mapping deploy="/home/student/094295_hw1" local="$PROJECT_DIR$" />
