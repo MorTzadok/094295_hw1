@@ -22,4 +22,3 @@ def load_data():
                 patient_df = pd.concat([patient_df,new_patient_df], ignore_index = True)
     return patient_df.to_csv('patient_df.csv')
 
-
