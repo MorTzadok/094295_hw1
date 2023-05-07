@@ -10,7 +10,7 @@ import os
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
-
+####################!!!??
 def load_data(path):
     print(f'_{path.split("/")[1]}')
     files = os.listdir(path)
